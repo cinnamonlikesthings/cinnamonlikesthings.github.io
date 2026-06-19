@@ -1,0 +1,9 @@
+body {
+    background-color: burlywood; color: black; margin-left: 25%; margin-right: 25%; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li {
+    padding-bottom: 15px;   
+}
+a {
+    color:black; text-decoration: none;
+}
