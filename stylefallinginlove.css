@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(196, 225, 167); color: rgb(91, 73, 85); margin-left: 25%; margin-right: 25%; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li {
+    padding-bottom: 15px;   
+}
+a {
+    color:rgb(91, 73, 85); text-decoration: none;
+}
